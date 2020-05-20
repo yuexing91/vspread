@@ -127,4 +127,4 @@ new Vue({
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2013-present, yuexing91
+Copyright (c) 2020-present, yuexing91
