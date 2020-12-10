@@ -1,6 +1,6 @@
 # v-spread
 
-> vue.js版的在线电子表格
+> vue.js版的在线电子表格 [在线预览](https://yuexing91.github.io/v-spread/index.html)
 
 ## 开始
 
