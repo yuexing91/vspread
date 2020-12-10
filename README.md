@@ -122,3 +122,9 @@ new Vue({
   components: { vspread },
 });
 ```
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2020-present, yuexing91
